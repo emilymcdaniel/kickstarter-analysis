@@ -48,10 +48,10 @@ A third issue with the campaign launch date analysis specifically is the type of
 
 Additional tables that could be useful are:
 
-(1) Comparing outcomes to countries of interest to outcomes.
+(1) Comparing countries of interest to outcomes.
 
 (2) Comparing the length of the campaigns to outcomes.
 
 (3) Comparing the type of production to the number of backers (this could be useful in identifying topical interest).
 
-(4) Finding intersections in all of the areas examimed - particularly if there is a specific plan for the desired campaign.
+(4) Finding intersections in all of the areas examined, particularly if there is a pre-existing plan for the desired campaign.
