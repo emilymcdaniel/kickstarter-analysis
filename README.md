@@ -7,6 +7,9 @@ Performing analysis on Kickstarter data to uncover trends
 ## Overview of Project
 ### Purpose
 This project analyzes campaign outcomes of various projects, with the ultimate goal of outlining recommendations on how to best execute a campaign for a play in the US. Given a dataset that is inclusive of each campaign's goal, pledges, outcomes, etc. we should be provide guidance on campaign timing and funding expectations.
+
+The complete dataset is saved in this compressed file: [Kickstarter Challenge](https://github.com/emilymcdaniel/kickstarter-analysis/blob/master/Kickstarter_Challenge.xlsx%20-%20Copy.zip)
+
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
 To determine the recommended campaign launch date, we compared the outcomes (success, failed, or canceled) of all theater campaigns against the time of year the campaign launched. By separating campaign outcomes types, we can easily identify which months had the most failed, successful, or canceled campaigns. This indicates which month(s) we should advise for and against a campaign launch. 
